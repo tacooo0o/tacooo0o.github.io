@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/tags/index.html</loc>
+    
+    <lastmod>2021-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/categories/index.html</loc>
+    
+    <lastmod>2021-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/link/index.html</loc>
+    
+    <lastmod>2021-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/2020/07/22/%E4%BD%A0%E5%A5%BD/</loc>
+    
+    <lastmod>2021-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/about/index.html</loc>
+    
+    <lastmod>2021-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/2020/07/26/Hexo-admin%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2021-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/2021/12/26/hello-world/</loc>
+    
+    <lastmod>2021-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly</loc>
+    <lastmod>2021-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/tags/Hexo/</loc>
+    <lastmod>2021-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2021-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://tacooo0o.github.io/buffifly/categories/Hexo/</loc>
+    <lastmod>2021-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
